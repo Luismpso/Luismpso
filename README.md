@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=0e75b6&style=flat" alt="luismpso" /> </p>
 
 - 📚 I’m currently studying on [@Universidade do Minho](https://www.uminho.pt/PT) for my Master's in Artificial Intelligence
+- 🌱 I’m currently working independently on the [@BirdCLEF+2026 Kaggle Challenge](https://www.kaggle.com/competitions/birdclef-2026/), building machine learning models for Acoustic Species Identification in the Brazilian Pantanal.
 - 📫 How to reach me: Luimpsoo@gmail.com
 
 <h3 align="left">Connect with me:</h3>

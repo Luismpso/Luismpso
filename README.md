@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luís Miguel Pereira Silva</h1>
 <h3 align="center">Passionate about solving problems, high-level system architecture and designing robust Machine Learning</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=0e75b6&style=flat" alt="luismpso" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luismpso" alt="luismpso" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/luismpso" target="blank"><img src="https://img.shields.io/twitter/follow/luismpso?logo=twitter&style=for-the-badge" alt="luismpso" /></a> </p>
-
-- 🔭 I’m aacurrently working on [I’m currently studying @Universidade do Minho for my Master's in Artificial Intelligence]([@Universidade do Minho](https://www.uminho.pt/PT))
-
-- 🌱 I’m curaaarently learning **aaaa**
-
-- 👯 I’m loaaaoking to collaborate on [aa](aa)
-
-- 🤝 I’m loaaoking for help with [aa](aa)
-
-Passionate about high-level system architecture and designing robust Machine Learning
+- 📚 I’m currently studying on [@Universidade do Minho](https://www.uminho.pt/PT) for my Master's in Artificial Intelligence
+- 📫 How to reach me: Luimpsoo@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

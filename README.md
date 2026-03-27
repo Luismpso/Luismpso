@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/luismpso" target="blank"><img src="https://img.shields.io/twitter/follow/luismpso?logo=twitter&style=for-the-badge" alt="luismpso" /></a> </p>
 
-- 🔭 I’m aacurrently working on [I’m currently studying @ for my Master's in Artificial Intelligence](@Universidade do Minho)
+- 🔭 I’m aacurrently working on [I’m currently studying @Universidade do Minho for my Master's in Artificial Intelligence]([@Universidade do Minho](https://www.uminho.pt/PT))
 
 - 🌱 I’m curaaarently learning **aaaa**
 

@@ -26,7 +26,7 @@
 
 | Project | Highlight | Stack |
 |---|---|---|
-| 🥇 **AI-Generated Text Detection** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Anthropic / Google / Meta / OpenAI text | Deep Learning, PyTorch |
+| 🥇 **AI-Generated Text Detection** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Anthropic / Google / Meta / OpenAI text · *Grade 19/20* | Deep Learning, PyTorch |
 | 🥉 **Porto Traffic Flow Prediction** | **4th / 57 teams** in university Kaggle competition — CRISP-DM pipeline · *Grade 18.2/20* | Scikit-learn, Pandas |
 | 🤖 **FS Rules AI Assistant** | Offline RAG agent for Formula Student regulations · *Grade 18/20* | Ollama + Gemma 3 12B, Flask |
 | 🗺️ **Multimodal Route Optimization (Porto)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | Nature-Inspired Computing |

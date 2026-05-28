@@ -79,10 +79,3 @@
 </p>
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismpso&show_icons=true&theme=default&hide_border=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismpso&layout=compact&theme=default&hide_border=true" alt="top langs" height="165" />
-</p>

@@ -24,7 +24,6 @@
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on **high-level system architecture** — designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** over raw development
-- 🔭 Currently building: **multi-agent systems** & **interactive data visualization (D3.js)**
 - 🌍 Languages: **Portuguese** (native) · **English** (B1)
 - 📫 Reach me at **Luimpsoo@gmail.com**
 

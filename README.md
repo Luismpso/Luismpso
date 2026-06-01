@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+1st+place+%C2%B7+AI-Generated+Text+Detection;Engineering+Physics+%E2%86%92+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
   </a>
 </p>
 

@@ -1,10 +1,10 @@
 <!-- ============================ HEADER BANNER ============================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Lu%C3%ADs%20Miguel%20Pereira%20Silva&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Physics%20%E2%86%92%20Artificial%20Intelligence&descSize=18&descAlignY=62" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,50:5a189a,100:9d4edd&height=240&section=header&text=Lu%C3%ADs%20Miguel%20Pereira%20Silva&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Physics%20%E2%86%92%20Artificial%20Intelligence&descSize=18&descAlignY=62" alt="header banner"/>
 
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=700&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+1st+place+%C2%B7+AI-Generated+Text+Detection;Summer+2026+%40+NOS+%F0%9F%9A%80;Engineering+Physics+%E2%86%92+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+1st+place+%C2%B7+AI-Generated+Text+Detection;Engineering+Physics+%E2%86%92+Artificial+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
   <a href="https://linkedin.com/in/luismpso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://kaggle.com/luismpso" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:Luimpsoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Portugal-2dd4bf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Portugal"/>
-  <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=2dd4bf&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Based%20in-Portugal-9d4edd?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Portugal"/>
+  <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=9d4edd&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -25,7 +25,6 @@
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on **high-level system architecture** and robust, scalable **ML & GenAI pipelines** — strategy and infrastructure over raw code
 - 🔭 Currently building: **multi-agent systems** & **interactive data visualization (D3.js)**
-- 🚀 **Joining NOS · Summer 2026**
 - 📫 Reach me at **Luimpsoo@gmail.com**
 
 ---
@@ -92,25 +91,25 @@
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismpso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=luismpso&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismpso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=c77dff&text_color=f8f8f2&icon_color=9d4edd" alt="GitHub stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=luismpso&hide_border=true&background=1a0b2e&stroke=9d4edd&ring=c77dff&fire=c77dff&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=c77dff&sideLabels=e0aaff&dates=9d4edd" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismpso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismpso&layout=compact&hide_border=true&langs_count=8&bg_color=1a0b2e&title_color=c77dff&text_color=f8f8f2" alt="Top languages"/>
 </p>
 
 <!-- Contribution activity graph -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luismpso&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luismpso&hide_border=true&area=true&bg_color=1a0b2e&color=c77dff&line=9d4edd&point=e0aaff&area_color=9d4edd" alt="Activity graph"/>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luismpso&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=luismpso&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 ---
 
 <!-- ============================ FOOTER ============================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5a189a,100:10002b&height=120&section=footer" alt="footer"/>

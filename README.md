@@ -1,81 +1,116 @@
-<h1 align="center">Hi 👋, I'm Luís Miguel Pereira Silva</h1>
+<!-- ============================ HEADER BANNER ============================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Lu%C3%ADs%20Miguel%20Pereira%20Silva&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Physics%20%E2%86%92%20Artificial%20Intelligence&descSize=18&descAlignY=62" alt="header banner"/>
 
-<h3 align="center">AI Master's student · Engineering Physics background · Building ML & GenAI systems</h3>
-
+<!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
-  <a href="https://linkedin.com/in/luismpso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/luismpso" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="mailto:Luimpsoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=0e75b6&style=flat" alt="luismpso" />
+  <a href="https://github.com/luismpso">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=700&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+1st+place+%C2%B7+AI-Generated+Text+Detection;Summer+2026+%40+NOS+%F0%9F%9A%80;Engineering+Physics+%E2%86%92+Artificial+Intelligence" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ============================ SOCIAL BADGES ============================ -->
+<p align="center">
+  <a href="https://linkedin.com/in/luismpso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/luismpso" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:Luimpsoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Portugal-2dd4bf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Portugal"/>
+  <img src="https://komarev.com/ghpvc/?username=luismpso&label=Profile%20views&color=2dd4bf&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
-- 🎓 Master's in **Artificial Intelligence** at [Universidade do Minho](https://www.uminho.pt/PT) *(2025 – present)*
-- 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — Final grade **17/20 (ECTS A)**
-- 🧭 Focused on **high-level system architecture** and designing robust **ML & GenAI pipelines** — prioritizing strategic implementation and scalable infrastructure over raw development
+- 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
+- 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
+- 🧭 Focused on **high-level system architecture** and robust, scalable **ML & GenAI pipelines** — strategy and infrastructure over raw code
+- 🔭 Currently building: **multi-agent systems** & **interactive data visualization (D3.js)**
+- 🚀 **Joining NOS · Summer 2026**
 - 📫 Reach me at **Luimpsoo@gmail.com**
-
 
 ---
 
 ### 🏆 Featured academic work
 
-| Project | Highlight | Stack |
+| Project | What makes it interesting | Stack |
 |---|---|---|
-| 🥇 **AI-Generated Text Detection** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Anthropic / Google / Meta / OpenAI text · *Grade 19/20* | Deep Learning, PyTorch |
-| 🥉 **Porto Traffic Flow Prediction** | **4th / 57 teams** in university Kaggle competition — CRISP-DM pipeline · *Grade 18.2/20* | Scikit-learn, Pandas |
-| 🤖 **FS Rules AI Assistant** | Offline RAG agent for Formula Student regulations · *Grade 18/20* | Ollama + Gemma 3 12B, Flask |
-| 🗺️ **Multimodal Route Optimization (Porto)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | Nature-Inspired Computing |
-| 🎮 **Millionaire — Prolog Edition** | Logic-driven game engine + GenAI-powered "Phone a Friend" lifeline · *Grade 17/20* | Prolog + LLM |
+| 🥇 **AI-Generated Text Detection** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Anthropic / Google / Meta / OpenAI text · *Grade 19/20* | `Deep Learning` `PyTorch` |
+| 🥉 **Porto Traffic Flow Prediction** | **4th / 57 teams** in a university Kaggle competition — full CRISP-DM pipeline · *Grade 18.2/20* | `scikit-learn` `Pandas` |
+| 🤖 **FS Rules AI Assistant** | Offline RAG agent for Formula Student regulations · *Grade 18/20* | `Ollama` `Gemma 3 12B` `Flask` |
+| 🗺️ **Multimodal Route Optimization (Porto)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | `Nature-Inspired Computing` |
+| 🎮 **Millionaire — Prolog Edition** | Logic-driven game engine + GenAI "Phone a Friend" lifeline · *Grade 17/20* | `Prolog` `LLM` |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech stack
 
 **AI / ML & Data**
 <p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 **Programming Languages**
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 **Databases & Infrastructure**
 <p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-**Web**
+**Web & Visualization**
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
 </p>
 
 **Hardware & Signals**
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismpso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=luismpso&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismpso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<!-- Contribution activity graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luismpso&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity graph"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luismpso&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+
+---
+
+<!-- ============================ FOOTER ============================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>

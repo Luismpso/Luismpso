@@ -23,7 +23,9 @@
 
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
-- 🧭 Focused on **high-level system architecture** and robust, scalable **ML & GenAI pipelines** — strategy and infrastructure over raw code
+- 🧭 Focused on **high-level system architecture** — designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** over raw development
+- 🔭 Currently building: **multi-agent systems** & **interactive data visualization (D3.js)**
+- 🌍 Languages: **Portuguese** (native) · **English** (B1)
 - 📫 Reach me at **Luimpsoo@gmail.com**
 
 ---
@@ -34,55 +36,87 @@
 |---|---|---|
 | 🥇 **AI-Generated Text Detection** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Anthropic / Google / Meta / OpenAI text · *Grade 19/20* | `Deep Learning` `PyTorch` |
 | 🥉 **Porto Traffic Flow Prediction** | **4th / 57 teams** in a university Kaggle competition — full CRISP-DM pipeline · *Grade 18.2/20* | `scikit-learn` `Pandas` |
-| 🤖 **FS Rules AI Assistant** | Offline RAG agent for Formula Student regulations · *Grade 18/20* | `Ollama` `Gemma 3 12B` `Flask` |
+| 🤖 **FS Rules AI Assistant** | **100% offline** RAG agent for Formula Student regulations, with accurate cited sources · *Grade 18/20* | `Ollama` `Gemma 3 12B` `Flask` |
 | 🗺️ **Multimodal Route Optimization (Porto)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | `Nature-Inspired Computing` |
 | 🎮 **Millionaire — Prolog Edition** | Logic-driven game engine + GenAI "Phone a Friend" lifeline · *Grade 17/20* | `Prolog` `LLM` |
 
 ---
 
+### 💼 Experience
+
+**🐦 EMG Signal Acquisition Intern — BirdLab** · *Jun 2023 – Aug 2023*
+- Built a real-time EMG acquisition & transmission pipeline on **Arduino + STM32**
+- Designed a 12th-order Butterworth band-pass filter (20–450 Hz) in **C++** at a 1200 Hz sampling rate
+- Cut UART payload size by **75%** with a custom float→16-bit encoding (stable 249,600 bps)
+
+**🎓 Event Logistics Lead — NEFUM** *(Physics Students' Union, U. Minho)* · *Jul 2022 – Jul 2024*
+- Directed logistics for **2 major academic events** (~120 attendees each)
+- Planned and ran lectures & workshops for Physics / Engineering Physics students
+
+---
+
 ### 🛠️ Tech stack
+
+**Focus**
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep_Learning-7b2cbf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-7b2cbf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-7b2cbf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-7b2cbf?style=for-the-badge"/>
+</p>
 
 **AI / ML & Data**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 **Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prolog-CC0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-**Databases & Infrastructure**
+**Web & Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-**Web & Visualization**
-<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
 </p>
 
+**Databases & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
 **Hardware & Signals**
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Signal_Processing-525252?style=for-the-badge"/>
 </p>
 
 ---

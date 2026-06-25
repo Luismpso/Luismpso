@@ -22,7 +22,7 @@
 ### 👨‍💻 About me
 
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
-- 📡 Incoming **Machine Learning Intern @ NOS** · *(Summer 2026)* — geospatial mobile network intelligence
+- 📡 **Machine Learning Intern @ NOS** · *(Summer 2026)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on **high-level system architecture** — designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** over raw development
 - 🌍 Languages: **Portuguese** (native) · **English** (B1)

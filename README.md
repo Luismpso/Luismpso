@@ -122,31 +122,5 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismpso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=9fa8da&text_color=e8eaf6&icon_color=7986cb" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=luismpso&hide_border=true&background=1a1a2e&stroke=7986cb&ring=9fa8da&fire=9fa8da&currStreakNum=e8eaf6&sideNums=e8eaf6&currStreakLabel=9fa8da&sideLabels=c5cae9&dates=7986cb" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismpso&layout=compact&hide_border=true&langs_count=8&bg_color=1a1a2e&title_color=9fa8da&text_color=e8eaf6" alt="Top languages"/>
-</p>
-
-<!-- Contribution activity graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luismpso&hide_border=true&area=true&bg_color=1a1a2e&color=9fa8da&line=7986cb&point=c5cae9&area_color=7986cb" alt="Activity graph"/>
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luismpso&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
-
----
-
 <!-- ============================ FOOTER ============================ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7986cb,50:3f3d6b,100:181626&height=120&section=footer" alt="footer"/>

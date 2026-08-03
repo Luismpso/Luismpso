@@ -24,7 +24,7 @@
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** end to end
-- 📄 Co-author of a peer-reviewed paper accepted at **INISTA 2026**
+- 📄 Corresponding author of a paper accepted at INISTA 2026
 - 🌍 Languages: **Portuguese** (native) · **English** (B2)
 - 📫 Reach me at **Luimpsoo@gmail.com**
 
@@ -32,9 +32,9 @@
 
 ### 📄 Publications
 
-**[Safety-First Multi-Agent Decision Support for Chest-Pain Triage](https://drive.google.com/file/d/17-NALzLEJhdvzKV07ExtdbffvYrqDVU6/view?usp=sharing)** — *Accepted at INISTA 2026*
+**[Safety-First Multi-Agent Chest-Pain Triage: A Manchester-Aligned Architecture that Surfaces LLM Under-Triage](https://drive.google.com/file/d/17-NALzLEJhdvzKV07ExtdbffvYrqDVU6/view?usp=sharing)** — *Accepted at INISTA 2026*
 
-Multi-agent LLM system for emergency-department chest-pain triage, evaluated against real clinical data. Built on the Manchester Triage Protocol with a safety-first escalation design combining RAG, local LLMs and ML risk models.
+Multi-agent LLM system for emergency-department chest-pain triage, evaluated against real clinical data. Built on the Manchester Triage Protocol with a safety-first escalation design combining RAG, local LLMs and ML risk models. Developed with clinical collaborators from ULSAAve.
 
 ---
 

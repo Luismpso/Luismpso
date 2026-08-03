@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+INISTA+2026+paper+%C2%B7+multi-agent+clinical+triage;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%93%A1+Machine+Learning+%40+NOS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+INISTA+2026+paper+%C2%B7+multi-agent+clinical+triage;%F0%9F%93%A1+Machine+Learning+%40+NOS;%E2%99%9F%EF%B8%8F+grandmaster-ai+%C2%B7+Dueling+Double+DQN+chess+agent;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** end to end
-- 📄 Paper accepted at **INISTA 2026** — multi-agent clinical triage
+- 📄 Co-author of a peer-reviewed paper accepted at **INISTA 2026**
 - 🌍 Languages: **Portuguese** (native) · **English** (B2)
 - 📫 Reach me at **Luimpsoo@gmail.com**
 

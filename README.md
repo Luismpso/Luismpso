@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+INISTA+2026+paper+%C2%B7+multi-agent+clinical+triage;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%93%A1+Machine+Learning+%40+NOS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,45 @@
 ### 👨‍💻 About me
 
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
-- 📡 **Machine Learning @ NOS** · *(Summer 2026)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
-- 🧭 Focused on **high-level system architecture** — designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** over raw development
-- 🌍 Languages: **Portuguese** (native) · **English** (B1)
+- 🧭 Focused on designing, orchestrating and validating robust, scalable **ML & GenAI pipelines** end to end
+- 📄 Co-author of a peer-reviewed paper accepted at **INISTA 2026**
+- 🌍 Languages: **Portuguese** (native) · **English** (B2)
 - 📫 Reach me at **Luimpsoo@gmail.com**
+
+---
+
+### 📄 Publications
+
+**[Safety-First Multi-Agent Decision Support for Chest-Pain Triage](https://drive.google.com/file/d/17-NALzLEJhdvzKV07ExtdbffvYrqDVU6/view?usp=sharing)** — *Accepted at INISTA 2026*
+
+Multi-agent LLM system for emergency-department chest-pain triage, evaluated against real clinical data. Built on the Manchester Triage Protocol with a safety-first escalation design combining RAG, local LLMs and ML risk models.
+
+---
+
+### 💼 Experience
+
+**📡 Machine Learning Intern — NOS** · *Jul 2026 – present*
+- Large-scale data pipelines on **BigQuery** and **Python** over anonymized network telemetry
+- **Geospatial analysis and clustering** for mobile-network quality assessment
+- Stack: `Python` `SQL` `BigQuery` `GCP` `geospatial analysis` `clustering`
+
+**🐦 EMG Signal Acquisition Intern — BiRDLAB** · *Jun 2023 – Aug 2023*
+- Built a real-time EMG acquisition & transmission pipeline on **Arduino + STM32**
+- Designed a 12th-order Butterworth band-pass filter (20–450 Hz) in **C++** at a 1200 Hz sampling rate
+- Cut UART payload size by **75%** with a custom float→16-bit encoding (stable 249,600 bps)
+
+**🎓 Event Logistics Lead — NEFUM** *(Physics Students' Union, U. Minho)* · *Jul 2022 – Jul 2024*
+- Directed logistics for **2 major academic events** (~120 attendees each)
+- Planned and ran lectures & workshops for Physics / Engineering Physics students
+
+---
+
+### 🚀 Personal projects
+
+| Project | What makes it interesting | Stack |
+|---|---|---|
+| ♟️ **[grandmaster-ai](https://github.com/Luismpso/grandmaster-ai)** | Chess agent built from scratch — **Dueling Double DQN** with legal-action masking, Prioritized Experience Replay, potential-based reward shaping and a three-stage curriculum · Gymnasium-compatible env · 70 pytest tests | `Reinforcement Learning` `PyTorch` `Gymnasium` |
 
 ---
 
@@ -41,7 +75,7 @@
 | 🏎️ **[Autonomous FS Racing Agent](https://github.com/pedroreis2468/AR2)** | RL agent (**SAC/PPO**) in a 2D simulator with FS-AI rules, procedural tracks & domain randomization · *Grade 19.5/20* | `Reinforcement Learning` |
 | 🏅 **[Porto Traffic Flow Prediction](https://github.com/GuilhermeLobo225/DAA)** | **4th / 57 teams** in a university Kaggle competition — full CRISP-DM pipeline · *Grade 18.2/20* | `scikit-learn` `Pandas` |
 | 📖 **[Study-Room Occupancy & Comfort Monitoring](https://github.com/GuilhermeLobo225/SA)** | Low-cost distributed IoT system — **2× ESP32 nodes, YOLOv11 occupancy detection**, web dashboard & Android app · *Grade 19/20* | `ESP32` `YOLOv11` `IoT` |
-| 🩺 **[Chest-Pain Triage System](https://github.com/GuilhermeLobo225/PIA)** | **Manchester Protocol** triage (Yellow–Blue) combining a **multi-agent architecture, local LLMs, RAG & ML** · *Grade 20/20* | `Multi-Agent Systems` `RAG` `LLM` |
+| 🩺 **[Chest-Pain Triage System](https://github.com/GuilhermeLobo225/PIA)** | **Manchester Protocol** triage (Yellow–Blue) combining a **multi-agent architecture, local LLMs, RAG & ML** — basis for the INISTA 2026 paper · *Grade 20/20* | `Multi-Agent Systems` `RAG` `LLM` |
 | ⚡ **[D3.js Data Story — Energy Transition](https://github.com/Luismpso/SVDC1)** | Reveals the two sides of the energy transition: renewables booming in electricity, fossil fuels still dominating primary energy · *Grade 19/20* | `D3.js` `JavaScript` |
 | 🛢️ **[D3.js Data Story — 2026 Hormuz Crisis](https://github.com/Luismpso/SVDC2)** | Traces the price of the 2026 Iran war from the Strait of Hormuz to the Portuguese gas pump · *Grade 20/20* | `D3.js` `JavaScript` |
 | 🎯 **[Reinforcement Learning Portfolio](https://github.com/Luismpso/AR1)** | **5 environments · 20+ algorithms** (DP, MC, TD, SARSA, Q-Learning, REINFORCE, MCTS, DQN, AlphaZero) · 71 pytest tests · *Grade 20/20* | `Gymnasium` `PyTorch` |
@@ -49,18 +83,7 @@
 | 🗺️ **[Multimodal Route Optimization (Porto)](https://github.com/Luismpso/CIN)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | `Nature-Inspired Computing` |
 | 🏢 **[Tech Retail Decision Support System](https://github.com/pedroreis2468/ESD)** | Star-constellation **Data Warehouse** (PostgreSQL, CSV, MongoDB) with **NLP sentiment analysis** & Metabase dashboards · *Grade 17/20* | `PostgreSQL` `MongoDB` `NLP` |
 
----
-
-### 💼 Experience
-
-**🐦 EMG Signal Acquisition Intern — BirdLab** · *Jun 2023 – Aug 2023*
-- Built a real-time EMG acquisition & transmission pipeline on **Arduino + STM32**
-- Designed a 12th-order Butterworth band-pass filter (20–450 Hz) in **C++** at a 1200 Hz sampling rate
-- Cut UART payload size by **75%** with a custom float→16-bit encoding (stable 249,600 bps)
-
-**🎓 Event Logistics Lead — NEFUM** *(Physics Students' Union, U. Minho)* · *Jul 2022 – Jul 2024*
-- Directed logistics for **2 major academic events** (~120 attendees each)
-- Planned and ran lectures & workshops for Physics / Engineering Physics students
+> Most academic projects above were built in teams of 3–4; my specific contribution is described in each repository's README.
 
 ---
 ### 🛠️ Tech stack
@@ -93,6 +116,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
 **Programming Languages**
@@ -115,6 +139,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 **Hardware & Signals**

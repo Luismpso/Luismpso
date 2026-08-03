@@ -83,7 +83,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 | 🗺️ **[Multimodal Route Optimization (Porto)](https://github.com/Luismpso/CIN)** | Bi-criterion shortest path (time + CO₂) over a complex transport graph · *Grade 18/20* | `Nature-Inspired Computing` |
 | 🏢 **[Tech Retail Decision Support System](https://github.com/pedroreis2468/ESD)** | Star-constellation **Data Warehouse** (PostgreSQL, CSV, MongoDB) with **NLP sentiment analysis** & Metabase dashboards · *Grade 17/20* | `PostgreSQL` `MongoDB` `NLP` |
 
-> Most academic projects above were built in teams of 3–4; my specific contribution is described in each repository's README.
+> Most academic projects above were built in teams of 3–4 — see each repository's commit history and contributor graph for individual contributions.
 
 ---
 ### 🛠️ Tech stack

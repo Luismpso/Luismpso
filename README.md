@@ -60,7 +60,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 
 | Project | What makes it interesting | Stack |
 |---|---|---|
-| ♟️ **[grandmaster-ai](https://github.com/Luismpso/grandmaster-ai)** | Chess agent built from scratch — **Dueling Double DQN** with legal-action masking, Prioritized Experience Replay, potential-based reward shaping and a three-stage curriculum · Gymnasium-compatible env · 70 pytest tests | `Reinforcement Learning` `PyTorch` `Gymnasium` |
+| ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)** | Chess agent built from scratch — **Dueling Double DQN** with legal-action masking, Prioritized Experience Replay, potential-based reward shaping and a three-stage curriculum · Gymnasium-compatible env · 70 pytest tests | `Reinforcement Learning` `PyTorch` `Gymnasium` |
 
 ---
 

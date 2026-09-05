@@ -40,7 +40,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 
 ### 💼 Experience
 
-**📡 Machine Learning Intern — NOS** · *Jul 2026 – present*
+**📡 Machine Learning Intern — NOS** · *Jul 2026 – Sep 2026*
 - Large-scale data pipelines on **BigQuery** and **Python** over anonymized network telemetry
 - **Geospatial analysis and clustering** for mobile-network quality assessment
 - Stack: `Python` `SQL` `BigQuery` `GCP` `geospatial analysis` `clustering`

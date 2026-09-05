@@ -41,9 +41,11 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 ### 💼 Experience
 
 **📡 Machine Learning Intern — NOS** · *Jul 2026 – Sep 2026*
-- Large-scale data pipelines on **BigQuery** and **Python** over anonymized network telemetry
-- **Geospatial analysis and clustering** for mobile-network quality assessment
-- Stack: `Python` `SQL` `BigQuery` `GCP` `geospatial analysis` `clustering`
+- Built an **end-to-end data pipeline** on **BigQuery** processing **~125M daily records** to detect and rank mobile-network quality hotspots at national scale
+- Designed a **two-level geospatial clustering** system, re-architecting it to run inside BigQuery for scale (per-site runtime cut by an order of magnitude)
+- Developed a **mobility-analysis** module (community detection) and **validated the model against 5,600+ customer-satisfaction survey responses**
+- Delivered results through interactive **Power BI** dashboards on live data, with end-to-end system documentation
+- Stack: `Python` `SQL` `BigQuery` `GCP` `Power BI` `geospatial analysis` `clustering`
 
 **🐦 EMG Signal Acquisition Intern — BiRDLAB** · *Jun 2023 – Aug 2023*
 - Built a real-time EMG acquisition & transmission pipeline on **Arduino + STM32**

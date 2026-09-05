@@ -51,6 +51,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 - Built a real-time EMG acquisition & transmission pipeline on **Arduino + STM32**
 - Designed a 12th-order Butterworth band-pass filter (20–450 Hz) in **C++** at a 1200 Hz sampling rate
 - Cut UART payload size by **75%** with a custom float→16-bit encoding (stable 249,600 bps)
+- Stack: `C++` `STM32` `Arduino` `UART` `Digital Signal Processing`
 
 **🎓 Event Logistics Lead — NEFUM** *(Physics Students' Union, U. Minho)* · *Jul 2022 – Jul 2024*
 - Directed logistics for **2 major academic events** (~120 attendees each)

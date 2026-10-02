@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+Presented+at+INISTA+2026+%C2%B7+multi-agent+triage;%F0%9F%93%A1+ML+internship+%40+NOS+%C2%B7+125M+records%2Fday;%E2%99%9F%EF%B8%8F+Chess+engine+%C2%B7+neural+net+%2B+MCTS+%C2%B7+Lichess+bot;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+Presented+at+INISTA+2026+%C2%B7+multi-agent+triage;%F0%9F%93%A1+ML+internship+%40+NOS+%C2%B7+125M+records%2Fday;%E2%99%9F%EF%B8%8F+Chess+engine+%C2%B7+neural+net+%2B+MCTS+%C2%B7+Lichess+bot;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition;%F0%9F%8E%99%EF%B8%8F+SPECTRE+%C2%B7+speaker+ID+from+voice+spectra" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,12 +64,14 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 | Project | What makes it interesting | Stack |
 |---|---|---|
 | ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)** | Two chess engines built from scratch. **ChessNet**: a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**, which lifts it from ~1650 to **~2500 Elo** at 800 simulations per move in matches against Stockfish; it plays live as a **[Lichess bot](https://lichess.org/@/Luismpso)**. **Endgame agent**: a **Dueling Double DQN** with an exact retrograde solver, served through FastAPI + Docker behind a CI performance gate · 262 pytest tests | `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker` |
+
 ---
 
 ### 🏆 Featured academic work
 
 | Project | What makes it interesting | Stack |
 |---|---|---|
+| 🎙️ **[SPECTRE — Speaker Identification](https://github.com/Luismpso/SPECTRE)** | **SPE**ctral **C**lassifier for **T**alker **RE**cognition — identifies who is speaking from the frequency spectrum of their voice · *In progress* | `Signal Processing` `Fourier` `Python` |
 | 🥇 **[AI-Generated Text Detection](https://github.com/Luismpso/AP1)** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Google / Mistral / Meta / OpenAI text · *Grade 19/20* | `Deep Learning` `PyTorch` |
 | 🩻 **[ERCP Medical Image Classification](https://github.com/Luismpso/AP2)** | Multi-class deep learning with **equipment-bias removal via SAM3** and model ensembles · *Grade 19/20* | `Deep Learning` `PyTorch` |
 | 🤖 **[FS Rules AI Assistant](https://github.com/pedroreis2468/IIA)** | **100% offline** RAG agent for Formula Student regulations, with accurate cited sources · *Grade 18/20* | `Ollama` `Gemma 3 12B` `Flask` |

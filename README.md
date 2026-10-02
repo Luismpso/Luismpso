@@ -61,15 +61,9 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 
 ### 🚀 Personal projects
 
-**♟️ [Grand Master AI](https://github.com/Luismpso/GMAI)** — two chess engines built from scratch, from data to deployment
-
-<a href="https://lichess.org/@/Luismpso" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FLuismpso&query=%24.perfs.blitz.rating&label=Lichess%20bot%20%C2%B7%20blitz&logo=lichess&logoColor=white&color=2e7d32&style=for-the-badge" alt="Lichess blitz rating"/></a>
-
-- **ChessNet** — a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**. Search lifts it from ~1650 to ~2500 Elo at 800 simulations per move, in matches against Stockfish
-- Plays live on Lichess as a **[bot](https://lichess.org/@/Luismpso)**, with the rating above updated automatically
-- **Endgame agent** — a **Dueling Double DQN** with an exact retrograde solver for ground truth, served through **FastAPI + Docker** with Prometheus/Grafana monitoring and a CI performance-regression gate
-- 262 pytest tests · `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker`
-
+| Project | What makes it interesting | Stack |
+|---|---|---|
+| ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)**<br><a href="https://lichess.org/@/Luismpso" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FLuismpso&query=%24.perfs.blitz.rating&label=Lichess%20blitz&logo=lichess&logoColor=white&color=2e7d32&style=flat-square" alt="Lichess blitz rating"/></a> | Two chess engines built from scratch. **ChessNet**: a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**, which lifts it from ~1650 to **~2500 Elo** at 800 simulations per move in matches against Stockfish; it plays live as a **[Lichess bot](https://lichess.org/@/Luismpso)**. **Endgame agent**: a **Dueling Double DQN** with an exact retrograde solver, served through FastAPI + Docker behind a CI performance gate · 262 pytest tests | `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker` |
 ---
 
 ### 🏆 Featured academic work

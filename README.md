@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ANIMATION ============================ -->
 <p align="center">
   <a href="https://github.com/luismpso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+INISTA+2026+paper+%C2%B7+multi-agent+clinical+triage;%F0%9F%93%A1+Machine+Learning+%40+NOS;%E2%99%9F%EF%B8%8F+grandmaster-ai+%C2%B7+Dueling+Double+DQN+chess+agent;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=81C784&center=true&vCenter=true&width=800&lines=I+build+ML%2C+GenAI+%26+data+systems;%F0%9F%A5%87+AI-Generated+Text+Detection+%C2%B7+1st+of+25+teams;%F0%9F%93%84+Presented+at+INISTA+2026+%C2%B7+multi-agent+triage;%F0%9F%93%A1+ML+internship+%40+NOS+%C2%B7+125M+records%2Fday;%E2%99%9F%EF%B8%8F+Chess+engine+%C2%B7+neural+net+%2B+MCTS+%C2%B7+Lichess+bot;%F0%9F%8F%9B%EF%B8%8F+Multi-agent+library+system+%C2%B7+SPADE+%2B+Contract+Net;%F0%9F%A9%BA+Chest-pain+triage+%C2%B7+Manchester+Protocol+%2B+RAG+%2B+ML;%F0%9F%93%96+IoT+study-room+monitoring+%C2%B7+ESP32+%2B+YOLOv11;%F0%9F%8F%8E%EF%B8%8F+Autonomous+FS+racing+agent+%C2%B7+SAC%2FPPO;%F0%9F%8E%AF+RL+portfolio+%C2%B7+20%2B+algorithms+incl.+AlphaZero;%F0%9F%A9%BB+Deep+learning+for+medical+imaging+%C2%B7+ERCP;%F0%9F%8F%85+Porto+Traffic+Flow+%C2%B7+4th%2F57+teams;%F0%9F%9A%87+Multimodal+route+optimization+%C2%B7+time+%2B+CO%E2%82%82;%F0%9F%9B%A2%EF%B8%8F+D3.js+data+stories+%C2%B7+energy+%26+geopolitics;%F0%9F%8E%AE+Millionaire+%E2%80%94+Prolog+%2B+GenAI+edition" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 - 🎓 Master's in **Artificial Intelligence** @ [Universidade do Minho](https://www.uminho.pt/PT) · *(2025 – present)*
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho — final grade **17/20 (ECTS A)**
 - 🧭 Focused on designing, orchestrating and validating robust, scalable **AI pipelines** end to end
-- 📄 Corresponding author of a paper accepted at INISTA 2026
+- 📄 Corresponding author of a paper presented at INISTA 2026
 - 🌍 Languages: **Portuguese** (native) · **English** (B2)
 - 📫 Reach me at **Luimpsoo@gmail.com**
 
@@ -32,7 +32,7 @@
 
 ### 📄 Publications
 
-**[Safety-First Multi-Agent Chest-Pain Triage: A Manchester-Aligned Architecture that Surfaces LLM Under-Triage](https://drive.google.com/file/d/17-NALzLEJhdvzKV07ExtdbffvYrqDVU6/view?usp=sharing)** — *Accepted at INISTA 2026*
+**[Safety-First Multi-Agent Chest-Pain Triage: A Manchester-Aligned Architecture that Surfaces LLM Under-Triage](https://drive.google.com/file/d/17-NALzLEJhdvzKV07ExtdbffvYrqDVU6/view?usp=sharing)** — *Presented at INISTA 2026*
 
 Multi-agent LLM system for emergency-department chest-pain triage, evaluated against real clinical data. Built on the Manchester Triage Protocol with a safety-first escalation design combining RAG, local LLMs and ML risk models. Developed with clinical collaborators from ULSAAve.
 
@@ -61,9 +61,14 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 
 ### 🚀 Personal projects
 
-| Project | What makes it interesting | Stack |
-|---|---|---|
-| ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)** | Chess agent built from scratch — **Dueling Double DQN** with legal-action masking, Prioritized Experience Replay, potential-based reward shaping and a three-stage curriculum · Gymnasium-compatible env · 70 pytest tests | `Reinforcement Learning` `PyTorch` `Gymnasium` |
+**♟️ [Grand Master AI](https://github.com/Luismpso/GMAI)** — two chess engines built from scratch, from data to deployment
+
+<a href="https://lichess.org/@/Luismpso" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FLuismpso&query=%24.perfs.blitz.rating&label=Lichess%20bot%20%C2%B7%20blitz&logo=lichess&logoColor=white&color=2e7d32&style=for-the-badge" alt="Lichess blitz rating"/></a>
+
+- **ChessNet** — a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**. Search lifts it from ~1650 to ~2500 Elo at 800 simulations per move, in matches against Stockfish
+- Plays live on Lichess as a **[bot](https://lichess.org/@/Luismpso)**, with the rating above updated automatically
+- **Endgame agent** — a **Dueling Double DQN** with an exact retrograde solver for ground truth, served through **FastAPI + Docker** with Prometheus/Grafana monitoring and a CI performance-regression gate
+- 262 pytest tests · `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker`
 
 ---
 
@@ -138,6 +143,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>

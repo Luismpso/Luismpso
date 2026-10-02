@@ -64,6 +64,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 | Project | What makes it interesting | Stack |
 |---|---|---|
 | ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)** | Two chess engines built from scratch. **ChessNet**: a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**, which lifts it from ~1650 to **~2500 Elo** at 800 simulations per move in matches against Stockfish; it plays live as a **[Lichess bot](https://lichess.org/@/Luismpso)**. **Endgame agent**: a **Dueling Double DQN** with an exact retrograde solver, served through FastAPI + Docker behind a CI performance gate · 262 pytest tests | `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker` |
+| 🎙️ **[SPECTRE — Speaker Identification](https://github.com/Luismpso/SPECTRE)** | **SPE**ctral **C**lassifier for **T**alker **RE**cognition — identifies who is speaking from the frequency spectrum of their voice · *In progress* | `Signal Processing` `Fourier` `Python` |
 
 ---
 
@@ -71,7 +72,6 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 
 | Project | What makes it interesting | Stack |
 |---|---|---|
-| 🎙️ **[SPECTRE — Speaker Identification](https://github.com/Luismpso/SPECTRE)** | **SPE**ctral **C**lassifier for **T**alker **RE**cognition — identifies who is speaking from the frequency spectrum of their voice · *In progress* | `Signal Processing` `Fourier` `Python` |
 | 🥇 **[AI-Generated Text Detection](https://github.com/Luismpso/AP1)** | **1st place in all 3 submissions** (out of 25 teams) — multi-class classifier for Google / Mistral / Meta / OpenAI text · *Grade 19/20* | `Deep Learning` `PyTorch` |
 | 🩻 **[ERCP Medical Image Classification](https://github.com/Luismpso/AP2)** | Multi-class deep learning with **equipment-bias removal via SAM3** and model ensembles · *Grade 19/20* | `Deep Learning` `PyTorch` |
 | 🤖 **[FS Rules AI Assistant](https://github.com/pedroreis2468/IIA)** | **100% offline** RAG agent for Formula Student regulations, with accurate cited sources · *Grade 18/20* | `Ollama` `Gemma 3 12B` `Flask` |

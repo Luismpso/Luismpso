@@ -64,7 +64,7 @@ Multi-agent LLM system for emergency-department chest-pain triage, evaluated aga
 | Project | What makes it interesting | Stack |
 |---|---|---|
 | ♟️ **[Grand Master AI](https://github.com/Luismpso/GMAI)** | Two chess engines built from scratch. **ChessNet**: a residual policy-value network trained on **80M positions** from Lichess games between 2000+ players, choosing moves with **Monte Carlo tree search**, which lifts it from ~1650 to **~2500 Elo** at 800 simulations per move in matches against Stockfish; it plays live as a **[Lichess bot](https://lichess.org/@/Luismpso)**. **Endgame agent**: a **Dueling Double DQN** with an exact retrograde solver, served through FastAPI + Docker behind a CI performance gate · 262 pytest tests | `PyTorch` `MCTS` `Supervised Learning` `Reinforcement Learning` `FastAPI` `Docker` |
-| 🎙️ **[SPECTRE — Speaker Identification](https://github.com/Luismpso/SPECTRE)** | **SPE**ctral **C**lassifier for **T**alker **RE**cognition — identifies who is speaking from the frequency spectrum of their voice · *In progress* | `Signal Processing` `Fourier` `Python` |
+| 🎙️ **[SPECTRE — Speaker Identification](https://github.com/Luismpso/SPECTRE)** | **SPE**ctral **C**lassifier for **T**alker **RE**cognition — identifies who is speaking from the spectrum of their voice. An **ECAPA-TDNN** trained from scratch with **AAM-softmax** on 1,172 speakers turns speech into 192-d voice embeddings: **6.23 % EER** on voices never heard in training, **91.9 %** identification of new people enrolled from just **10 s** of speech without retraining, and **90.2 %** across all 1,172 known speakers in unseen recording sessions · *In progress* | `PyTorch` `Speaker Recognition` `ECAPA-TDNN` `Signal Processing` |
 
 ---
 
